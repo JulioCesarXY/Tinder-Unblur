@@ -4,7 +4,9 @@ Este script permite que você retire o desfoque das fotos no tinder na (sessão 
 Use inspecionar elemento ou o botão  (F12) do seu teclado, depois abra o console e cole o codigo da pagina no link a baixo.
 Você pode ver uma mensagem que diz, não cole no console, digite "allow pasting" no console para substituir este erro
 
+copie todo script da pagina a baixo e cole no Comsole, em seguida dê um Enter
+
 https://raw.githubusercontent.com/JulioCesarXY/Tinder-Unblur/main/Tinder
 
-logo em seguida você deve observar o resultado bem simples
+logo em seguida você deve observar o resultado. bem simples 👍🏽
 
